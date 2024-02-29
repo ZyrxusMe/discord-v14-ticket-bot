@@ -1,2 +1,12 @@
-# discord-v14-ticket-bot
-DiscordJS V14 sürümü ile yapılmış sunucuya özel ticket botu
+## 🎊 Nasıl Kullanılır
+1. `config.js` dosyasında gereken alanları doldurun.
+2. `npm i` ve `node index.js` komutlarıyla botu başlatın.
+3. Botu sunucunuza ekleyin.
+
+## 🧨Destek
+Eğer problem yaşıyorsan [Discord Sunucumuza](https://discord.gg/akparti) katılabilirsin.
+
+
+## 🎭 Lisans
+
+Bu proje lisanslanmıştır =)
