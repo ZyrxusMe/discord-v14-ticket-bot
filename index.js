@@ -19,7 +19,7 @@ client.on('ready', async () => {
     console.log("Ayran Code Share")
     console.log("========================")
 
-    client.user.setActivity({ name: config.oynuyor, type: "PLAYING" });
+    client.user.setActivity({ name: config.oynuyor, type: Discord.ActivityType.Playing });
 
     const ticketKanal = client.channels.cache.get(config.ticketKanalID);
     let a = await ticketKanal.messages.fetch({ limit: 50 })
